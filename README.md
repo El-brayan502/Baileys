@@ -144,7 +144,7 @@ import makeWAconnet, { Browsers } from 'naruyaizumi'
 const conn = makeWAconnet({
   browser: Browsers.ubuntu('Safari'),
   usePairingCode: true,
-  phoneNumber: '628xxxxxxx'
+  phoneNumber: '50231xxxx'
 })
 ```
 
@@ -155,7 +155,7 @@ const { default: makeWAconnet, Browsers } = require('naruyaizumi')
 const conn = makeWAconnet({
   browser: Browsers.ubuntu('Safari'),
   usePairingCode: true,
-  phoneNumber: '628xxxxxxx'
+  phoneNumber: '50231xxxx'
 })
 ```
 
