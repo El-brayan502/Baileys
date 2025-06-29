@@ -7,9 +7,9 @@
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/naruyaizumi/baileys",
+  "homepage": "https://github.com/El-brayan502/Baileys",
   "repository": {
-    "url": "https://github.com/naruyaizumi/baileys"
+    "url": "https://github.com/El-brayan502/Baileys"
   },
   "license": "MIT",
   "author": "Naruya Izumi",
@@ -46,6 +46,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/naruyaizumi/baileys/issues"
+    "url": "https://github.com/El-brayan502/Baileys/issues"
   }
 }
