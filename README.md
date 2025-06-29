@@ -181,7 +181,7 @@ const conn = makeWAconnet({
 })
 
 if (!conn.authState.creds.registered) {
-  const number = '628XXXXXXXXX'
+  const number = '50231xxxxx'
   const code = await conn.requestPairingCode(number)
   // atau gunakan pairing code kustom:
   // const code = await conn.requestPairingCode(number, 'CODEZUMI')
