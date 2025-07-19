@@ -12,7 +12,7 @@
     "url": "https://github.com/El-brayan502/Baileys"
   },
   "license": "MIT",
-  "author": "Naruya Izumi",
+  "author": "DeBrayan",
   "main": "lib/index.js",
   "files": [
     "lib/*",
